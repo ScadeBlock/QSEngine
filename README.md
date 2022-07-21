@@ -16,7 +16,7 @@ This is a example of JS(QJS) file:
 @QS.initdata;
 
 @QS.run;```
-
+```
 `@QS.init` : Init engine
 
 `@QS.setscreenupt:<number>` : Init fps for user 
