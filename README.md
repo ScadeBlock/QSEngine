@@ -15,7 +15,7 @@ This is a example of JS(QJS) file:
 
 @QS.initdata;
 
-@QS.run;```
+@QS.run;
 ```
 `@QS.init` : Init engine
 
