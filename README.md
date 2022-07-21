@@ -5,7 +5,8 @@ A canvas engine make by flask and pillow in python. It's make a image from serve
 .JS File
 This is a example of JS(QJS) file:
 
-```@QS.init;
+```
+@QS.init;
 
 @QS.setscreenupt:50;
 
