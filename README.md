@@ -13,11 +13,17 @@ This is a example of JS(QJS) file:
 @QS.run;``
 
 `@QS.init` : Init engine
+
 `@QS.setscreenupt:<number>` : Init fps for user 
+
 `@Script.add:<python-filename>` : Add a script
+
 `@Script.load:<python-filename>` : Load a script added
+
 `@Machine.load:<python-filename>` : Use a loaded script to a machine
-'@QS.initdata` : add all data loaded to qsmachine
+
+`@QS.initdata` : add all data loaded to qsmachine
+
 `@QS.run` : Start Server
 
 .Python Machine
