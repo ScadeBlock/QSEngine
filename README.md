@@ -1,5 +1,4 @@
 !! WARNING: This project has been closed.
-QSEngine on Beta version! You can helps me for develop this Engine!
 # QSEngine 0.0.1 Beta
 A canvas engine makes with flask and pillow in python. It'll makes a image from server then send it to user computer.
 # Document
